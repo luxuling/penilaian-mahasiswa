@@ -17,6 +17,11 @@ function App() {
   };
   return (
     <>
+      <a
+        href="https://github.com/luxuling/penilaian-mahasiswa"
+        className="fixed px-3 py-2 rounded-md bottom-5 right-5 bg-sky-200 text-slate-900 hover:underline">
+        Source Code
+      </a>
       <h1 className="text-lg font-semibold text-center py-7">
         Aplikasi Penilaian Mahasiswa
       </h1>
